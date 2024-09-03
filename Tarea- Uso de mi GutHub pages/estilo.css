@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+    border: 2px solid tomato;
+}
+
+.parrafoRojo{
+    font-size: 35px;
+    border: 2px solid darkblue;
+}
+.parrafoazul{
+    font-size: 25px;
+    background-color: greenyellow;
+    border: 2px solid yellow;
+    padding-bottom: 200px;
+}
